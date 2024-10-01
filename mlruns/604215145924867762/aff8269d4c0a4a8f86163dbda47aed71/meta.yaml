@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dhirajrajiitj/ML_ops_assig4/mlruns/604215145924867762/aff8269d4c0a4a8f86163dbda47aed71/artifacts
+end_time: 1727728745421
+entry_point_name: ''
+experiment_id: '604215145924867762'
+lifecycle_stage: active
+run_id: aff8269d4c0a4a8f86163dbda47aed71
+run_name: fearless-moth-302
+run_uuid: aff8269d4c0a4a8f86163dbda47aed71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727728742971
+status: 3
+tags: []
+user_id: dhirajrajiitj

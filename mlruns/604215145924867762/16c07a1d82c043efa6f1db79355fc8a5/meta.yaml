@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dhirajrajiitj/ML_ops_assig4/mlruns/604215145924867762/16c07a1d82c043efa6f1db79355fc8a5/artifacts
+end_time: 1727729153650
+entry_point_name: ''
+experiment_id: '604215145924867762'
+lifecycle_stage: active
+run_id: 16c07a1d82c043efa6f1db79355fc8a5
+run_name: bright-grub-795
+run_uuid: 16c07a1d82c043efa6f1db79355fc8a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727729152577
+status: 3
+tags: []
+user_id: dhirajrajiitj

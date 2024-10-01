@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727768242988
+current_stage: None
+description: null
+last_updated_timestamp: 1727768242988
+name: LinearRegressionModel
+run_id: 2214193c2f7e403fad01dcfafedef76e
+run_link: null
+source: file:///Users/dhirajrajiitj/ML_ops_assig4/mlruns/604215145924867762/2214193c2f7e403fad01dcfafedef76e/artifacts/linear_regression_model
+status: READY
+status_message: null
+storage_location: file:///Users/dhirajrajiitj/ML_ops_assig4/mlruns/604215145924867762/2214193c2f7e403fad01dcfafedef76e/artifacts/linear_regression_model
+user_id: null
+version: 3

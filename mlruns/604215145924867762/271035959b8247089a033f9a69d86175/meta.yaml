@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dhirajrajiitj/ML_ops_assig4/mlruns/604215145924867762/271035959b8247089a033f9a69d86175/artifacts
+end_time: 1727729152576
+entry_point_name: ''
+experiment_id: '604215145924867762'
+lifecycle_stage: active
+run_id: 271035959b8247089a033f9a69d86175
+run_name: clean-ray-583
+run_uuid: 271035959b8247089a033f9a69d86175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727729150939
+status: 3
+tags: []
+user_id: dhirajrajiitj

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dhirajrajiitj/ML_ops_assig4/mlruns/604215145924867762/735668e2f7dc4c1bb9450aa093f6c9d7/artifacts
+end_time: 1727728746498
+entry_point_name: ''
+experiment_id: '604215145924867762'
+lifecycle_stage: active
+run_id: 735668e2f7dc4c1bb9450aa093f6c9d7
+run_name: vaunted-sheep-716
+run_uuid: 735668e2f7dc4c1bb9450aa093f6c9d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727728745422
+status: 3
+tags: []
+user_id: dhirajrajiitj

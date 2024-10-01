@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727728746497
+current_stage: None
+description: null
+last_updated_timestamp: 1727728746497
+name: RandomForestModel
+run_id: 735668e2f7dc4c1bb9450aa093f6c9d7
+run_link: null
+source: file:///Users/dhirajrajiitj/ML_ops_assig4/mlruns/604215145924867762/735668e2f7dc4c1bb9450aa093f6c9d7/artifacts/RandomForest_model
+status: READY
+status_message: null
+storage_location: file:///Users/dhirajrajiitj/ML_ops_assig4/mlruns/604215145924867762/735668e2f7dc4c1bb9450aa093f6c9d7/artifacts/RandomForest_model
+user_id: null
+version: 1

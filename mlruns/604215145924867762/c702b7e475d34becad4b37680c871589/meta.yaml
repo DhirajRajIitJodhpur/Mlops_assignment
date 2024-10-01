@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dhirajrajiitj/ML_ops_assig4/mlruns/604215145924867762/c702b7e475d34becad4b37680c871589/artifacts
+end_time: 1727768244087
+entry_point_name: ''
+experiment_id: '604215145924867762'
+lifecycle_stage: active
+run_id: c702b7e475d34becad4b37680c871589
+run_name: secretive-moth-68
+run_uuid: c702b7e475d34becad4b37680c871589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727768242992
+status: 3
+tags: []
+user_id: dhirajrajiitj
